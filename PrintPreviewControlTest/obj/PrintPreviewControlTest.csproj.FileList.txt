@@ -1,0 +1,8 @@
+bin\Debug\PrintPreviewControlTest.exe
+bin\Debug\PrintPreviewControlTest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PrintPreviewControlTest.Form1.resources
+obj\Debug\PrintPreviewControlTest.Properties.Resources.resources
+obj\Debug\PrintPreviewControlTest.csproj.GenerateResource.Cache
+obj\Debug\PrintPreviewControlTest.exe
+obj\Debug\PrintPreviewControlTest.pdb
